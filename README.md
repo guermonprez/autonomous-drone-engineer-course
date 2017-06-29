@@ -1,10 +1,13 @@
 # Autonomous Drone Engineer Course
 
 Do you know how power lines are checked? They send a customized helicopter with a highly trained crew to take photos. It’s slow, expensive and dangerous. The next step is of course to use a remotely controlled drone to take the pictures. It’s still slow and not scalable to the full size of the power line network.
+
 That’s why we need autonomous drones, able to fly but also avoid collisions and analyze the situation as they go. Autonomous Drone Engineers will need to master a wide range of skills, from computer vision basics, embedded development and drone hardware design.
 
 ## Requirements
 Linux programming in Python or C/C++. Basic Linux sysadmin.
+
+[Intel Aero Ready-To-Fly Drone](http://intel.com/aero)
 
 ## Competences
 
@@ -22,3 +25,5 @@ After this training, the student will be able to:
 [Slides](pptx)
 
 [Slides PDFs](pdf)
+
+Reference: [Intel Aero github](http://github.com/intel-aero/meta-intel-aero/wiki)
