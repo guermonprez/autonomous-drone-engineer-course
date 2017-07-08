@@ -32,42 +32,45 @@ Reference: [Intel Aero github](http://github.com/intel-aero/meta-intel-aero/wiki
 __A. Introduction__
 * Intel Aero in 5mn.
 * Autonomous Drone Usage Models.
-* Drones in society @book
-* Market and business models, team work
+* _Drones in society (soon)_
+
 __B. Architecture__
 * Introduction.
 * Hardware architecture.
 * 3D and visual sensors.
 * Software Architecture.
+
 __C.Lab setup__
 * Flashing and lab setup.
+
 __D. Drone software development__
 * Hello world flight controller.
 * Hello world networked drone.
 * Docker containers.
-* ROS?
-* Access cameras and stream
+* _ROS (very soon)_
+* _Access cameras and stream (very soon)_
+
 __E. Advanced drone software development__
-* Collision avoidance
-* VISP
-* SLAM
-* Movidius Computer Vision
-* Big Data in Real Time
-* Gazebo simulator
+* _Collision avoidance (soon)_
+* _VISP (soon)_
+* _SLAM (soon)_
+* _Movidius Computer Vision (soon)_
+* _Big Data in Real Time (soon)_
+* _Gazebo simulator (soon)_
+
 __F. Server side software development__
-* Cloud Sync
-* Messaging with MQTT
-* SAP
-* Mapping and GeoData
-* 3D reconstruction
-* Big Data
+* _Cloud Sync (soon)_
+* _SAP integration (soon)_
+* _Mapping and GeoData (soon)_
+* _3D reconstruction (soon)_
+* _Big Data (soon)_
+
 __G.	Productizing__
-* VPNs
-* Containers in production
-* LTE Modem
-* WindRiver RT OS
-* 3D printing
+* _VPNs (very soon)_
+* _LTE Modem (soon)_
+* _3D printing accessories (very soon)_
+
 __H.	Entrepreneurship__
-* Ecosystem
-* Ideation
-* Promotion
+* _Ecosystem (soon)_
+* _Ideation (soon)_
+* _Promotion (soon)_
